@@ -1,0 +1,23 @@
+{
+  "name": "celeste-run-verifier",
+  "version": "1.0.0",
+  "description": "Pulls celeste run data from speedrun.com and attempts to verify them.",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mister-simon/celeste-run-verifier.git"
+  },
+  "author": "Simon W (mister__simon)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mister-simon/celeste-run-verifier/issues"
+  },
+  "homepage": "https://github.com/mister-simon/celeste-run-verifier#readme"
+}
