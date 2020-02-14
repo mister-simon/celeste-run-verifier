@@ -2,6 +2,10 @@
 
 It's pretty basic, but this script will pull all the data from speedrun.com apis for Celeste and process them. Outputting the results into a file `celeste.json`.
 
+## Example File
+
+[Generated 2020-02-14 - celeste.json - google drive](https://drive.google.com/file/d/1qC5upOOBYMMnYimiJ6v3_SApFqcrH-4J/view?usp=sharing).
+
 ## Setup
 
 -   Make sure you have [node / npm](https://nodejs.org/en/) installed
